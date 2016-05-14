@@ -19,6 +19,7 @@ cd new usrblog| jekyll serve
 {% endhighlight bash %}
 
 Then open the `http://localhost:4000 `you can see the new usrblog in browser
+
 Last use the git command push the folder named of `usename.github.io`  to github
 
 {% highlight bash %}
