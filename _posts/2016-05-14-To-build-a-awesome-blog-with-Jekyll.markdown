@@ -2,7 +2,7 @@
 layout: post
 title:  "To build a awesome blog with Jekyll"
 date:   2016-05-14 
-categories: how to make the use of jekyll 
+categories: use jekyll 
 ---
 First creat a repository with name `usrname.github.io`,download the repository use command 
 
