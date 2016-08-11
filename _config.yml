@@ -8,7 +8,7 @@
 # Site settings
 title: 丶一乂
 email: dianyiqe@gmail.com
-description: dianyiqe's note
+description: dianyiqe's blog
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "http://doublehelix.xyz" # the base hostname & protocol for your site
 github_username:  dianyiqe
