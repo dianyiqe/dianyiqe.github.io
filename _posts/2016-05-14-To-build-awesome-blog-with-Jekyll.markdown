@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "To build a awesome blog with Jekyll"
+title:  "To build  awesome blog with Jekyll"
 date:   2016-05-14 
 categories: use jekyll 
 ---
